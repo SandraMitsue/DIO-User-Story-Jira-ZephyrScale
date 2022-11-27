@@ -1,2 +1,3 @@
-# DIO-User-History-Jira-ZephyrScale
-QA GFT Mulheres - O dia a dia de um QA._ A prática de testes manuais funcionais
+#Repositório referente a um projeto proposto no Bootcamp QA GFT Mulheres da DIO.
+
+Repositório criado com o objetivo de praticar atividades relativas ao dia a dia de um QA, com foco na criação de casos de testes manuais funcionais, utilizando as ferramentas Jira e Confluence (Zephyr Scale) para a geração de painéis e relatórios.
